@@ -1,0 +1,40 @@
+<div class="filters">
+  <mat-form-field>
+    <mat-label>Sort</mat-label>
+    <mat-select
+    panelClass="sort-select"
+    [(ngModel)]="sort"
+    >
+    <mat-option value="name">Name</mat-option>
+    <mat-option value="-released">Released</mat-option>
+    <mat-option value="-added">Added</mat-option>
+    <mat-option value="-created">Created</mat-option>
+    <mat-option value="-updated">Updated</mat-option>
+    <mat-option value="-rating">Rating</mat-option>
+    <mat-option value="Metacritic">Metacritic</mat-option>
+    </mat-select>
+  </mat-form-field>
+</div>
+
+<div class="games">
+  <div class="game">
+    <div class="game-thumb-container">
+      <img
+      src="https://api.rawg.io/api/games"
+      alt="thumbnail"
+      class="game-thumbnail"
+      />
+    </div>
+    <div class=""game-description>
+      <p class="game-name">Name</p>
+      <div class="game-platforms">
+        <img
+        class="game-platform"
+        src="https://image.shutterstock.com/image-illustration/old-style-pixel-game-picture-600w-1216261114.jpg"
+        alt="slug"
+        />
+      </div>
+    </div>
+  </div>
+
+</div>

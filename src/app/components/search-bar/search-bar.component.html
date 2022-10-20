@@ -1,0 +1,12 @@
+<div class="search-container">
+  <form class="search-form" #form="ngForm" (ngSubmit)="onSubmit(form)">
+    <span class="logo" routerLink="/">Angular Video Games DB</span>
+    <input
+    class="search-input"
+    name="search"
+    ngModel
+    placeholder="Search 5000,000+ games"
+    />
+    <button class="search-button">Search</button>
+  </form>
+</div>
