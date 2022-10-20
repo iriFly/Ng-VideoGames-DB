@@ -17,24 +17,28 @@
 </div>
 
 <div class="games">
-  <div class="game">
-    <div class="game-thumb-container">
-      <img
-      src="https://api.rawg.io/api/games"
-      alt="thumbnail"
-      class="game-thumbnail"
-      />
-    </div>
-    <div class=""game-description>
-      <p class="game-name">Name</p>
-      <div class="game-platforms">
+  <ng-container *ngFor="let game of games">
+    <div class="game" (click)="openGameDetails(game.id)">
+      <div class="game-thumb-container">
         <img
-        class="game-platform"
-        src="https://image.shutterstock.com/image-illustration/old-style-pixel-game-picture-600w-1216261114.jpg"
-        alt="slug"
+         *ngIf="game.background_image"
+          src="{{ game.background_image }}"
+          alt="thumbnail"
+          class="game-thumbnail"
         />
+      <p *ngIf="!game.background_image">No image</p>
+      </div>
+      <div class="game-description">
+        <p class="game-name">{{ game.name }}</p>
+        <div class="game-platforms">
+          <img
+           *ngFor="let gamePlatform of game.parent_platforms"
+            class="game-platform"
+            src="assets/images/platforms/{{ gamePlatform.platform.slug }}.svg"
+            alt="{{ gamePlatform.platform.slug }}"
+          />
+        </div>
       </div>
     </div>
-  </div>
-
+  </ng-container>
 </div>

@@ -17,3 +17,47 @@
 2022-10-20 11:51:32 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/images/Super%20Mario%2064%20-%20Powerful%20Mario%20Cover%20by%20GuyWhoLikesGames_files
 2022-10-20 11:51:32 error: SQLITE_ERROR: no such table: issues
 2022-10-20 11:51:32 error: SQLITE_ERROR: no such table: issues
+2022-10-20 13:32:47 info: file:///c%3A/Windows/system32/ng-videoGameDB/services
+2022-10-20 13:32:47 error: SQLITE_ERROR: no such table: issues
+2022-10-20 13:47:55 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/2.pack_
+2022-10-20 13:47:55 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/3.pack_
+2022-10-20 13:47:55 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/5.pack_
+2022-10-20 13:47:55 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/7.pack_
+2022-10-20 13:47:55 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/index.pack_
+2022-10-20 13:47:55 error: SQLITE_ERROR: no such table: issues
+2022-10-20 13:47:55 error: SQLITE_ERROR: no such table: issues
+2022-10-20 13:47:55 error: SQLITE_ERROR: no such table: issues
+2022-10-20 13:47:55 error: SQLITE_ERROR: no such table: issues
+2022-10-20 13:47:55 error: SQLITE_ERROR: no such table: issues
+2022-10-20 13:48:54 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/2.pack_
+2022-10-20 13:48:54 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/3.pack_
+2022-10-20 13:48:54 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/5.pack_
+2022-10-20 13:48:54 error: SQLITE_ERROR: no such table: issues
+2022-10-20 13:48:54 error: SQLITE_ERROR: no such table: issues
+2022-10-20 13:48:54 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:01:17 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/app/interceptors/http-params.interceptor.ts
+2022-10-20 14:01:17 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:18:31 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/3.pack_
+2022-10-20 14:18:31 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:34:01 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/9.pack_
+2022-10-20 14:34:01 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:37:05 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/index.pack
+2022-10-20 14:37:05 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:52:46 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/4.pack_
+2022-10-20 14:52:46 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/5.pack_
+2022-10-20 14:52:46 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/index.pack_
+2022-10-20 14:52:46 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:52:46 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:52:46 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:53:35 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/3.pack_
+2022-10-20 14:53:35 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/4.pack_
+2022-10-20 14:53:35 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/5.pack_
+2022-10-20 14:53:35 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/6.pack_
+2022-10-20 14:53:35 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/index.pack_
+2022-10-20 14:53:35 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:53:35 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:53:35 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:53:35 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:53:35 error: SQLITE_ERROR: no such table: issues
+2022-10-20 14:53:35 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/index.pack
+2022-10-20 14:53:35 error: SQLITE_ERROR: no such table: issues
