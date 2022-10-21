@@ -61,3 +61,46 @@
 2022-10-20 14:53:35 error: SQLITE_ERROR: no such table: issues
 2022-10-20 14:53:35 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/1bcce3b021879a9059d3fffeb337bca3a3e1a98c/index.pack
 2022-10-20 14:53:35 error: SQLITE_ERROR: no such table: issues
+2022-10-20 15:40:53 info: tempDirectory:c:\Users\iafanassenko\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-10-20 15:40:53 info: Extraction complete for source: c:\Users\iafanassenko\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\iafanassenko\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-10-20 15:40:53 info: Congratulations, your extension "Embold" is now active!
+2022-10-20 15:41:03 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/739e29e6e27ef1f8b9473f27ca0edbd200c05f39/0.pack_
+2022-10-20 15:41:03 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/739e29e6e27ef1f8b9473f27ca0edbd200c05f39/index.pack_
+2022-10-20 15:41:03 error: SQLITE_ERROR: no such table: issues
+2022-10-20 15:41:03 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:13:07 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/739e29e6e27ef1f8b9473f27ca0edbd200c05f39/1.pack_
+2022-10-20 16:13:07 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:14:56 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/images/platforms
+2022-10-20 16:14:56 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:15:01 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/images/platform
+2022-10-20 16:15:01 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:18:47 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/android.svg
+2022-10-20 16:18:47 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:18:54 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/commodore-amiga.svg
+2022-10-20 16:18:54 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:18:57 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/ios.svg
+2022-10-20 16:18:57 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:19:00 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/mac.svg
+2022-10-20 16:19:00 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:19:01 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/nintendo.svg
+2022-10-20 16:19:01 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:19:03 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/pc.svg
+2022-10-20 16:19:03 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:19:04 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/playstation.svg
+2022-10-20 16:19:04 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:19:06 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/sega.svg
+2022-10-20 16:19:06 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:19:08 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/linux.svg
+2022-10-20 16:19:08 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:19:10 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/web.svg
+2022-10-20 16:19:10 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:19:12 info: file:///c%3A/Windows/system32/ng-videoGameDB/src/assets/xbox.svg
+2022-10-20 16:19:12 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:20:17 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/739e29e6e27ef1f8b9473f27ca0edbd200c05f39/0.pack_
+2022-10-20 16:20:17 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/739e29e6e27ef1f8b9473f27ca0edbd200c05f39/2.pack_
+2022-10-20 16:20:17 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/739e29e6e27ef1f8b9473f27ca0edbd200c05f39/3.pack_
+2022-10-20 16:20:17 info: file:///c%3A/Windows/system32/ng-videoGameDB/.angular/cache/14.2.6/angular-webpack/739e29e6e27ef1f8b9473f27ca0edbd200c05f39/index.pack_
+2022-10-20 16:20:17 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:20:17 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:20:17 error: SQLITE_ERROR: no such table: issues
+2022-10-20 16:20:17 error: SQLITE_ERROR: no such table: issues
